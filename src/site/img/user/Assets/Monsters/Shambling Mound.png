@@ -1,0 +1,12 @@
+---
+Type: Stat Block
+CR: Unknown
+---
+
+```dataviewjs
+dv.view("Scripts/hidden-statblock", {
+    name: "Shambling Mound",
+    token: "Assets/Monsters/Shambling Mound Token.png",
+    message: "Stat block is hidden to prevent metagaming."
+})
+```
